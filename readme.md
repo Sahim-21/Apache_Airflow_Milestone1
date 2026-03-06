@@ -15,7 +15,7 @@ The workflow consists of three main tasks orchestrated by an Airflow DAG:
 
 ## Folder Structure
 ```text
-milestone1_1/
+milestone1/
 ├── milestone_rocket.py                 # The Airflow DAG script
 ├── launches.json           # Raw data fetched from the API
 ├── images/                 # Downloaded rocket images
